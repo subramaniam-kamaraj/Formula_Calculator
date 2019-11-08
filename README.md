@@ -1,2 +1,2 @@
 # formula_calculator
-formula_calculator ract js
+formula_calculator react js
